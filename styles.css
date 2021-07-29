@@ -1,0 +1,65 @@
+body{
+  text-align: center;
+  background-color: #e8e8e4;
+  margin: 0;
+  font-family: Arial,sans-serif;
+  font-style: oblique;
+}
+img{
+  width: 10%;
+}
+h2{
+font-size: 1.6em;
+}
+p{
+color: #540d6e;
+font-size: 1.2em;
+}
+a{
+  text-decoration:none;
+  color: black;
+}
+a:hover{
+  color:#b23a48 ;
+}
+.title1{
+  margin-bottom: 0;
+}
+.title2{
+  display: inline;
+}
+.childhood_img{
+  float: left;
+}
+.dream_img{
+  float: right;
+}
+.bground_img{
+  width: 100%;
+}
+.skill{
+  margin-left: 5%;
+  text-align: left;
+  width: 50%;
+
+}
+.hobby{
+  margin-left: 50%;
+  padding-right: 5%;
+  text-align: right;
+  line-height: .8;
+  width: 50%;
+}
+.childhood{
+  margin-left: 5%;
+  text-align: left;
+  width: 50%;
+  line-height: 1.5;
+}
+.dream{
+  margin-right: 5%;
+  margin-left: 50%;
+  text-align: right;
+  width: 50%;
+  line-height: 1.5;
+}
